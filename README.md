@@ -18,7 +18,7 @@
    - 選択した頂点に基づいてメッシュを分割し、カスタムオリエンテーションを適用。
 
 
-# How to use
+# Usage
 1. **インストール**
    - アドオンファイルをダウンロードし、Blenderの`Edit > Preferences > Add-ons`からインストール。
    - `Orientation Transform Z`を有効化。
